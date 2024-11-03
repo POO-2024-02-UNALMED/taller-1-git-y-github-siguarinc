@@ -1,1 +1,2 @@
-Simon Guarin Cortes 17 años, espero comprender el lenguaje Java y python desde un punto de vista orientado a objetos, reforsando los conocimentos a travez de un proyecto que desafie nuestro aprendizaje
+¿Por que ahora puedes crear un commit y subir la carpeta?
+por que antes la carpeta estaba vacia y github la ignora como si no hubiese habido un cambio
